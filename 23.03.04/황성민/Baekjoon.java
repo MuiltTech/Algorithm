@@ -12,6 +12,9 @@ public class Baekjoon {
 		for (int i = 0; i < N; i++) {
 			A[i] = in.nextInt();
 		}
+
+		in.close();
+
 		// 최대한 큰 동전 먼저 사용
 		for (int i = N - 1; i >= 0; i--) { // 가장 큰 동전부터 탐색
 			if (A[i] <= K) { // K보다 작은 동전의 종류를 탐색
