@@ -42,4 +42,19 @@
 
 ## Issues 사용
 
-추후 작성
+<img width="1280" alt="2023-03-13_11-03-46" src="https://user-images.githubusercontent.com/74192619/224591704-d2fb0528-a79e-4761-a9dd-3bd4fa54adc1.png">
+
+상단 Nav에서 `Issues`를 선택한 다음 `New issue` 버튼을 클릭합니다.
+
+<img width="1277" alt="2023-03-13_11-03-57" src="https://user-images.githubusercontent.com/74192619/224591709-36e8c382-5faa-4d45-94f4-341c2e008493.png">
+
+해당 목록에서 `Get started` 를 누르면 이슈 템플릿이 불러와집니다.
+
+<img width="1273" alt="2023-03-13_11-06-34" src="https://user-images.githubusercontent.com/74192619/224591887-cf193b50-7ea4-4e50-9791-fb66cccaf66d.png">
+
+불러온 이슈 템플릿의 모습입니다.
+
+<img width="309" alt="2023-03-13_11-04-13" src="https://user-images.githubusercontent.com/74192619/224591717-5ce89dd2-3519-4ac9-9cbb-f84e2e462da0.png">
+<img width="302" alt="2023-03-13_11-07-11" src="https://user-images.githubusercontent.com/74192619/224591970-abdb03aa-2061-4ef1-9155-62e3f26aefa7.png">
+
+이슈에서 우측 상단에 보시면 새로운 인원을 추가하실 수 있습니다!
